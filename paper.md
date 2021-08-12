@@ -21,26 +21,30 @@ authors:
  - name: James P. Kneller^{Corresponding author: jpknelle@ncsu.edu}
     orcid: 0000-0002-3502-3830
     affiliation: 4
- - name: Evan O'Connor
+ - name: Jost Migenda
     affiliation: 5
+ - name: Evan O'Connor
+    affiliation: 6
  - name: Navya Uberoi
     affiliation: 1
  - name: Arkin Worlikar
-    affiliation: 6
+    affiliation: 7
 
 affiliations:
  - name: University of Rochester,\\ Rochester, NY, USA
    index: 1
- - name: NC School of Science and Math, Durham, NC, USA
+ - name: Caltech, Pasadena, CA, USA
    index: 2
  - name: University of North Carolina - Chapel Hill, Chapel Hill, NC, USA
    index: 3
  - name: Department of Physics, NC State University, Raleigh, NC, USA
    index: 4
+ - name: Department of Physics, King's College London, London, UK
+ - index: 5
  - name: Stockholm University, Stockholm, Sweden
-   index: 5 
- - name: Raleigh Charter High School, Raleigh, NC, USA
-   index: 6
+   index: 6 
+ - name: Georgia Tech, Atlanta, GA, USA
+   index: 7
 
  
 date: 21 April 2021
